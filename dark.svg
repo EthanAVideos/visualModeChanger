@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creater EthanA Videos (http://ethan.arm64server.org/EthanAVideos) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg416"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="dark.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview418"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="15.763323"
+     inkscape:cx="30.16496"
+     inkscape:cy="25.692552"
+     inkscape:window-width="1842"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs413" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 6.349895,11.872207 q -2.3009223,0 -3.9115683,-1.610647 -1.61064565,-1.6106459 -1.61064565,-3.9115685 0,-2.3009225 1.61064565,-3.9115685 1.610646,-1.61064554 3.9115683,-1.61064554 0.1227164,0 0.2607711,0.007676 0.1380547,0.007676 0.3528072,0.0230211 Q 6.411252,1.3493376 6.1044623,2.0702932 5.7976726,2.7912491 5.7976726,3.5889022 q 0,1.3805535 0.9663877,2.3469408 0.9663879,0.9663877 2.346941,0.9663877 0.7976527,0 1.5186117,-0.28378 0.720952,-0.2837802 1.211816,-0.7899835 0.01529,0.1840737 0.02309,0.2991187 0.0078,0.1150454 0.0078,0.2224221 0,2.3009226 -1.610647,3.911568 -1.6106452,1.610647 -3.9115676,1.610647 z m 0,-0.92037 q 1.6720045,0 2.9145018,-1.0354162 1.2424992,-1.0354146 1.5492892,-2.4313075 -0.38349,0.1687351 -0.823271,0.2531026 -0.43963,0.084367 -0.8794125,0.084367 -1.7592856,0 -2.9964145,-1.2372828 -1.2372835,-1.2371293 -1.2372835,-2.9964147 0,-0.3681475 0.076698,-0.7899835 Q 5.0306999,2.3770666 5.2301152,1.8401848 3.726845,2.2543507 2.7374486,3.5198583 1.7480518,4.7853656 1.7480518,6.3499929 q 0,1.9174354 1.342205,3.2596405 1.3422048,1.3422046 3.2596382,1.3422036 z M 6.2885368,6.3960098 Z"
+       id="dark"
+       style="fill:#000000;stroke-width:0.0153394"
+       inkscape:label="dark" />
+  </g>
+</svg>
