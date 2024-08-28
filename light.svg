@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creater EthanA Videos (http://ethan.arm64server.org/EthanAVideos) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg416"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="light.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview418"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="15.763323"
+     inkscape:cx="30.323556"
+     inkscape:cy="25.692553"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs413" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 6.3500003,8.1071227 q 0.727951,0 1.2425359,-0.5145857 0.5145865,-0.5145857 0.5145865,-1.2425367 0,-0.7279503 -0.5145865,-1.2425359 -0.5145849,-0.5145858 -1.2425359,-0.5145858 -0.7279504,0 -1.2425363,0.5145858 -0.5145858,0.5145856 -0.5145858,1.2425359 0,0.727951 0.5145858,1.2425367 0.5145859,0.5145857 1.2425363,0.5145857 z m 0,0.7530519 q -1.0417221,0 -1.7759482,-0.7342258 Q 3.8398259,7.391723 3.8398259,6.3500003 q 0,-1.0417221 0.7342262,-1.7759479 0.7342261,-0.7342264 1.7759482,-0.7342264 1.0417227,0 1.7759485,0.7342264 0.7342257,0.7342258 0.7342257,1.7759479 0,1.0417227 -0.7342257,1.7759485 Q 7.391723,8.8601746 6.3500003,8.8601746 Z M 2.8357563,6.7265266 H 0.82761685 V 5.9734739 H 2.8357563 Z m 9.0366267,0 H 9.8642442 V 5.9734739 H 11.872383 Z M 5.9734739,2.8357564 V 0.82761695 H 6.7265265 V 2.8357564 Z m 0,9.0366266 V 9.8642441 H 6.7265265 V 11.872383 Z M 3.6139103,4.1159452 2.3588232,2.8985107 2.8985106,2.3462725 4.1033944,3.6013596 Z M 9.8140412,10.341176 8.5840557,9.0860902 9.0986413,8.5715044 10.341176,9.8014901 Z M 8.5715045,3.6013596 9.8014892,2.3588232 10.353727,2.88596 9.1111918,4.1159452 Z M 2.3588232,9.8014901 3.6013595,8.5715044 4.128496,9.0986414 2.8985106,10.341176 Z M 6.3500003,6.3500003 Z"
+       id="light"
+       style="display:inline;fill:#000000;stroke-width:0.0125509"
+       inkscape:label="light" />
+  </g>
+</svg>
